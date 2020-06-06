@@ -1,0 +1,12 @@
+body{
+    padding:30px;
+}
+.photos{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:30px;
+}
+/* .gatsby-image-wrapper{
+    height:260px;
+} */
+
